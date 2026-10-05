@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import date
-
+ 
 from generator.generate_calendar import generate_calendar
 from generator.generate_weather import generate_weather
 from generator.generate_sales import generate_sales
